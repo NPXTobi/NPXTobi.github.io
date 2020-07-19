@@ -1,4 +1,4 @@
 ### npxtobi.githubio
 
-# [Demo-Reset](https://github.com/NPXTobi/Demo-Reset/)
+# [Demo-Reset](https://github.com/NPXTobi/NPXTobi.github.io/blob/master/Demo-Reset.md)
  
