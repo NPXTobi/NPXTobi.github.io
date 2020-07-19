@@ -1,2 +1,2 @@
-# NPXTobi.github.io
+# [NPXTobi.github.io](npxtobi.githubio)
 Website
